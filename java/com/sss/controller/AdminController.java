@@ -204,6 +204,7 @@ public class AdminController {
 		log.info("=========================");
 		log.info("register : " + vo);
 		log.info("=========================");
+		log.info(vo);
 		memberservice.insertManager(vo);
 		return "redirect:/admin/index";
 	}
