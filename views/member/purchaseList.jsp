@@ -16,16 +16,17 @@
             <!-- Breadcrumb -->
             <ol class="breadcrumb mb-0 font-size-xs text-gray-400">
               <li class="breadcrumb-item">
-                <a class="text-gray-400" href="index.html">Home</a>
+                <a class="text-gray-400" href="/shop/main">Home</a>
               </li>
               <li class="breadcrumb-item active">
                 Member
               </li>
               <li class="breadcrumb-item active">
-                My Purchase List
+              <a class="text-gray-400" href="/shop/main">Home</a>
+              <a class="text-gray-400" href="purchaseList.jsp">My Purchase List</a>
+                
               </li>
             </ol>
-
           </div>
         </div>
       </div>
