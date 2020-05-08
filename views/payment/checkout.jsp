@@ -20,10 +20,10 @@
             <!-- Breadcrumb -->
             <ol class="breadcrumb mb-0 font-size-xs text-gray-400">
               <li class="breadcrumb-item">
-                <a class="text-gray-400" href="/shop/main">홈</a>
+                 <a class="text-gray-400" href="/shop/main">Home</a>
               </li>
               <li class="breadcrumb-item">
-                <a class="text-gray-400" href="/shop/product">장바구니</a>
+                <a class="text-gray-400" href="/payment/shopcart">shopping Cart</a>
               </li>
               <li class="breadcrumb-item active">
                      결제하기
